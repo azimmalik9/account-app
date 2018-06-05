@@ -1,0 +1,10 @@
+com\ibm\poc\es\service\BookServiceImpl.class
+com\ibm\poc\es\service\AccountService.class
+com\ibm\poc\es\Application.class
+com\ibm\poc\es\repository\AccountRepository.class
+com\ibm\poc\es\repository\BookRepository.class
+com\ibm\poc\es\service\AccountServiceImpl.class
+com\ibm\poc\es\service\BookService.class
+com\ibm\poc\es\config\ElasticSearchConfiguration.class
+com\ibm\poc\es\model\Account.class
+com\ibm\poc\es\model\Book.class
